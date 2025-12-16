@@ -33,5 +33,3 @@ with open('day_01/input.txt') as f:
         # When starting position is exactly 0
         if sp == 0:
             result += 1
-    
-    print(result)

@@ -15,5 +15,3 @@ with open('day_02/input.txt') as f:
                 s = str(n)
                 if invalid.match(s):
                     total += n
-
-print(total)
