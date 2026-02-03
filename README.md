@@ -9,7 +9,7 @@ All solutions are implemented in **Python**.
 
 ## 📁 Repository Structure
 ```
-ADVENT-OF-CODE/
+advent-of-code/
 ├── day_01/
 │   ├── part_01.py
 │   └── part_02.py
@@ -31,8 +31,8 @@ ADVENT-OF-CODE/
 ### Setup
 1. Clone the repository:
 ```bash
-git clone https://github.com/cihangiracikgoz/ADVENT-OF-CODE.git
-cd ADVENT-OF-CODE
+git clone https://github.com/cihangiracikgoz/advent-of-code.git
+cd advent-of-code
 ```
 
 2. Add your puzzle inputs:
