@@ -16,9 +16,4 @@ with open("day_03/input.txt") as f:
                 jolt = int(line[i] + line[j])
                 max_jolt = max(max_jolt, jolt)
 
-        total += max_jolt
-
-print(total)
-
-
-            
+        total += max_jolt  
