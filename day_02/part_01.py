@@ -17,3 +17,5 @@ with open('day_02/input.txt') as f:
                 half = len(s) // 2
                 if s[:half] == s[half:]:
                     total += n
+
+print("Total:", total)

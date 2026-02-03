@@ -22,3 +22,5 @@ with open("day_03/input.txt") as f:
         leftmost = stack[:num]
         jolt = int(''.join(leftmost))
         total += jolt
+
+print("Total:", total)

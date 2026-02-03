@@ -17,3 +17,5 @@ with open("day_03/input.txt") as f:
                 max_jolt = max(max_jolt, jolt)
 
         total += max_jolt  
+
+print("Total:", total)
